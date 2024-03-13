@@ -1,3 +1,30 @@
+ul#city {
+    background: #00cc00;
+    padding: 20px;
+}
+
+ul#city li {
+    background:  #b3e5b3;
+    margin: 5px;
+}
+ul#name {
+    background: #ff9999;
+    padding: 20px;
+}
+
+ul#name li {
+    background:  #ffe5e5;
+    margin: 5px;
+}
+ul#pilot {
+    background: #3399ff;
+    padding: 20px;
+}
+
+ul#pilot li {
+    background: #cce5ff;
+    margin: 5px;
+}
 /* site general settings */
 body {
     font-family: "Trebuchet MS", Verdana, sans-serif;
